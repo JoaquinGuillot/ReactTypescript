@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { FormProduct } from "./FormProducts/FormProduct"
-import { Header } from "./Header/header"
+import { Header } from "./Header/Header"
 import { ListProducts } from "./ListProducts/ListProducts";
 
 
